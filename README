@@ -1,4 +1,4 @@
-MasonX::Request::ExtendedCompRoot::WithApacheSession version 0.01
+MasonX::Request::ExtendedCompRoot::WithApacheSession version 0.02
 =================================================================
 
 INSTALLATION
@@ -17,7 +17,7 @@ DEPENDENCIES
 
 This module requires these other modules and libraries:
 
-  MasonX::Request::ExtendedCompRoot 0.01
+  MasonX::Request::ExtendedCompRoot 0.02
   MasonX::Request::WithApacheSession 0.24
 
 COPYRIGHT AND LICENCE

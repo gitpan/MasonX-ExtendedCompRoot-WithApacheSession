@@ -3,5 +3,5 @@ use ExtUtils::MakeMaker;
 WriteMakefile(
     NAME              => 'MasonX::Request::ExtendedCompRoot::WithApacheSession',
     VERSION_FROM      => 'lib/MasonX/Request/ExtendedCompRoot/WithApacheSession.pm',
-    PREREQ_PM         => {'MasonX::Request::ExtendedCompRoot'=>0.01, 'MasonX::Request::WithApacheSession'=>0.24},
+    PREREQ_PM         => {'MasonX::Request::ExtendedCompRoot'=>0.02, 'MasonX::Request::WithApacheSession'=>0.24},
 );

@@ -4,3 +4,4 @@ Makefile.PL
 MANIFEST
 lib/MasonX/Request/ExtendedCompRoot/WithApacheSession.pm
 README
+t/01.t

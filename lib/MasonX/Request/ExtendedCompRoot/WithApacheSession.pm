@@ -6,7 +6,7 @@ package MasonX::Request::ExtendedCompRoot::WithApacheSession;
 
 use strict;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 use base qw(MasonX::Request::WithApacheSession MasonX::Request::ExtendedCompRoot);
 
@@ -104,6 +104,10 @@ MasonX::Request::ExtendedCompRoot, MasonX::Request::WithApacheSession
 =head1 BUGS
 
 No known bugs.
+
+=head1 VERSION
+
+0.02
 
 =head1 SEE ALSO
 
